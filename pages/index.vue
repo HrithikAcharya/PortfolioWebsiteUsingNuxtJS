@@ -33,7 +33,7 @@
         various cities across the world." link="https://github.com/HrithikAcharya/ReactWeatherApp"></ProjectCard>
         <ProjectCard title="Spotify (Clone)" description="This project involved replicating the user interface of Spotify." link="https://github.com/HrithikAcharya/Spotify_Clone"></ProjectCard>
         <ProjectCard title="Tribute to Doctors" description="Article-type web pages about the doctors who perished in the second wave of COVID 19." link="https://github.com/HrithikAcharya/HrithikAcharya.TIE"></ProjectCard>
-        <ProjectCard title="Portfolio website using Nuxt.js" description="This project involved building a portfolio website using Nuxt.js" link=""></ProjectCard>
+        <ProjectCard title="Portfolio website using Nuxt.js" description="This project involved building a portfolio website using Nuxt.js" link="https://github.com/HrithikAcharya/PortfolioWebsiteUsingNuxtJS"></ProjectCard>
       </section>
       </div>
       <Footer />
